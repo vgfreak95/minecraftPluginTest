@@ -1,0 +1,16 @@
+name: TestPlugin
+version: 1.0
+main: org.testplugin.TestPlugin
+api-version: 1.18
+author: VGFreak95
+description: A test plugin used for minecraft
+commands:
+  switchgm:
+    description: Your description
+    usage: /<command>
+    permission: yourplugin.yourcommandpermissionserver
+  starttimer:
+    description: Your description
+    usage: /<command>
+    permission: yourplugin.yourcommandpermissionserver
+
